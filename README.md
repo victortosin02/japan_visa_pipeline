@@ -7,7 +7,6 @@ This project provides an end-to-end data processing and visualization of visa nu
 - [Usage](#-usage)
 - [Features](#-features)
 - [Notes](#-notes)
-- [Video](#-video)
 
 ## System Architecture
 ![System Architecture](assets/Sparkcluster_architecture.png)
